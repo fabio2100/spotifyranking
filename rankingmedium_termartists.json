@@ -1,0 +1,202 @@
+[
+  {
+    "nombre": "The Rolling Stones",
+    "cambio": 2
+  },
+  {
+    "nombre": "Guns N' Roses",
+    "cambio": 2
+  },
+  {
+    "nombre": "The Offspring",
+    "cambio": 2
+  },
+  {
+    "nombre": "Noel Gallagher's High Flying Birds",
+    "cambio": -2
+  },
+  {
+    "nombre": "Red Hot Chili Peppers",
+    "cambio": -4
+  },
+  {
+    "nombre": "The Smiths",
+    "cambio": 5
+  },
+  {
+    "nombre": "Las Pastillas del Abuelo",
+    "cambio": 24
+  },
+  {
+    "nombre": "The Doobie Brothers",
+    "cambio": 1
+  },
+  {
+    "nombre": "Callejeros",
+    "cambio": 1
+  },
+  {
+    "nombre": "La Delio Valdez",
+    "cambio": 24
+  },
+  {
+    "nombre": "U2",
+    "cambio": 28
+  },
+  {
+    "nombre": "La Skandalosa Tripulación",
+    "cambio": 0
+  },
+  {
+    "nombre": "Foo Fighters",
+    "cambio": 4
+  },
+  {
+    "nombre": "Los Enanitos Verdes",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Indio Solari y los Fundamentalistas del Aire Acondicionado",
+    "cambio": 3
+  },
+  {
+    "nombre": "La Vela Puerca",
+    "cambio": 3
+  },
+  {
+    "nombre": "Frank Zappa",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Los Gardelitos",
+    "cambio": 4
+  },
+  {
+    "nombre": "blink-182",
+    "cambio": 4
+  },
+  {
+    "nombre": "Fito Paez",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Neil Young",
+    "cambio": 4
+  },
+  {
+    "nombre": "Oasis",
+    "cambio": -16
+  },
+  {
+    "nombre": "Tom Petty and the Heartbreakers",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "The Waterboys",
+    "cambio": -17
+  },
+  {
+    "nombre": "New Order",
+    "cambio": 3
+  },
+  {
+    "nombre": "Creedence Clearwater Revival",
+    "cambio": 19
+  },
+  {
+    "nombre": "Joy Division",
+    "cambio": -11
+  },
+  {
+    "nombre": "Guasones",
+    "cambio": 2
+  },
+  {
+    "nombre": "Ramones",
+    "cambio": 7
+  },
+  {
+    "nombre": "Metallica",
+    "cambio": 12
+  },
+  {
+    "nombre": "Mick Jagger",
+    "cambio": -23
+  },
+  {
+    "nombre": "Bersuit Vergarabat",
+    "cambio": -11
+  },
+  {
+    "nombre": "La Renga",
+    "cambio": -20
+  },
+  {
+    "nombre": "Aerosmith",
+    "cambio": 1
+  },
+  {
+    "nombre": "Viejas Locas",
+    "cambio": 11
+  },
+  {
+    "nombre": "No Te Va Gustar",
+    "cambio": -3
+  },
+  {
+    "nombre": "Led Zeppelin",
+    "cambio": -13
+  },
+  {
+    "nombre": "Badfinger",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Los Caballeros De La Quema",
+    "cambio": -1
+  },
+  {
+    "nombre": "The Outfield",
+    "cambio": 7
+  },
+  {
+    "nombre": "Pink Floyd",
+    "cambio": 2
+  },
+  {
+    "nombre": "Black Eyed Peas",
+    "cambio": 7
+  },
+  {
+    "nombre": "Charly García",
+    "cambio": -3
+  },
+  {
+    "nombre": "Tom Petty",
+    "cambio": -30
+  },
+  {
+    "nombre": "La Portuaria",
+    "cambio": 5
+  },
+  {
+    "nombre": "AC/DC",
+    "cambio": -31
+  },
+  {
+    "nombre": "Coldplay",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Bon Jovi",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Divididos",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Richard Ashcroft",
+    "cambio": "Nuevo"
+  }
+]

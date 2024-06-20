@@ -1,0 +1,252 @@
+[
+  {
+    "posicion": "1",
+    "nombre": "Get In The Ring",
+    "artista": "Guns N' Roses"
+  },
+  {
+    "posicion": "2",
+    "nombre": "Shake Some Action",
+    "artista": "Flamin' Groovies"
+  },
+  {
+    "posicion": "3",
+    "nombre": "Tunnel Of Love",
+    "artista": "Dire Straits"
+  },
+  {
+    "posicion": "4",
+    "nombre": "Sit Next to Me",
+    "artista": "Foster The People"
+  },
+  {
+    "posicion": "5",
+    "nombre": "Hit Me",
+    "artista": "Molotov"
+  },
+  {
+    "posicion": "6",
+    "nombre": "Estranged",
+    "artista": "Guns N' Roses"
+  },
+  {
+    "posicion": "7",
+    "nombre": "Canción Inútil",
+    "artista": "Attaque 77"
+  },
+  {
+    "posicion": "8",
+    "nombre": "Green Grass & High Tides",
+    "artista": "The Outlaws"
+  },
+  {
+    "posicion": "9",
+    "nombre": "C'mon People (We're Making It Now)",
+    "artista": "Richard Ashcroft"
+  },
+  {
+    "posicion": "10",
+    "nombre": "El Favor",
+    "artista": "Las Pastillas del Abuelo"
+  },
+  {
+    "posicion": "11",
+    "nombre": "Breakdown",
+    "artista": "Guns N' Roses"
+  },
+  {
+    "posicion": "12",
+    "nombre": "What It Is",
+    "artista": "Mark Knopfler"
+  },
+  {
+    "posicion": "13",
+    "nombre": "Shuffle It All",
+    "artista": "Izzy Stradlin And The Ju Ju Hounds"
+  },
+  {
+    "posicion": "14",
+    "nombre": "No Existes - Remasterizado 2007",
+    "artista": "Soda Stereo"
+  },
+  {
+    "posicion": "15",
+    "nombre": "American Remains",
+    "artista": "The Highwaymen"
+  },
+  {
+    "posicion": "16",
+    "nombre": "Baby Blue - Remastered 2010",
+    "artista": "Badfinger"
+  },
+  {
+    "posicion": "17",
+    "nombre": "Fisherman's Blues - 2006 Remaster",
+    "artista": "The Waterboys"
+  },
+  {
+    "posicion": "18",
+    "nombre": "Flower In the Sun - Live at The Carousel Ballroom, San Francisco, CA - June 1968",
+    "artista": "Big Brother & The Holding Company"
+  },
+  {
+    "posicion": "19",
+    "nombre": "Peace of Mind",
+    "artista": "Boston"
+  },
+  {
+    "posicion": "20",
+    "nombre": "Talk Tonight",
+    "artista": "Oasis"
+  },
+  {
+    "posicion": "21",
+    "nombre": "Rocks Off",
+    "artista": "The Rolling Stones"
+  },
+  {
+    "posicion": "22",
+    "nombre": "Otra Ronda",
+    "artista": "La Skandalosa Tripulación"
+  },
+  {
+    "posicion": "23",
+    "nombre": "Sail On",
+    "artista": "Noel Gallagher's High Flying Birds"
+  },
+  {
+    "posicion": "24",
+    "nombre": "Run to the Hills - 1998 Remaster",
+    "artista": "Iron Maiden"
+  },
+  {
+    "posicion": "25",
+    "nombre": "A Morir",
+    "artista": "La Skandalosa Tripulación"
+  },
+  {
+    "posicion": "26",
+    "nombre": "It's The End Of The World As We Know It (And I Feel Fine)",
+    "artista": "R.E.M."
+  },
+  {
+    "posicion": "27",
+    "nombre": "Sunday Bloody Sunday - Remastered 2008",
+    "artista": "U2"
+  },
+  {
+    "posicion": "28",
+    "nombre": "Ya No Estás - En Vivo en el Luna Park",
+    "artista": "Las Pelotas"
+  },
+  {
+    "posicion": "29",
+    "nombre": "Set Fire to the Rain",
+    "artista": "Lila Liu"
+  },
+  {
+    "posicion": "30",
+    "nombre": "En la calle (Locura y Libertad)",
+    "artista": "Mancha De Rolando"
+  },
+  {
+    "posicion": "31",
+    "nombre": "100 Years Ago",
+    "artista": "The Rolling Stones"
+  },
+  {
+    "posicion": "32",
+    "nombre": "Paranoid",
+    "artista": "Black Sabbath"
+  },
+  {
+    "posicion": "33",
+    "nombre": "La Bomba",
+    "artista": "La Skandalosa Tripulación"
+  },
+  {
+    "posicion": "34",
+    "nombre": "On Standby",
+    "artista": "Shed Seven"
+  },
+  {
+    "posicion": "35",
+    "nombre": "Like A Song... - Remastered 2008",
+    "artista": "U2"
+  },
+  {
+    "posicion": "36",
+    "nombre": "Montevideo",
+    "artista": "Antonio Birabent"
+  },
+  {
+    "posicion": "37",
+    "nombre": "Cast No Shadow - Remastered",
+    "artista": "Oasis"
+  },
+  {
+    "posicion": "38",
+    "nombre": "Igual Que Ayer",
+    "artista": "Los Enanitos Verdes"
+  },
+  {
+    "posicion": "39",
+    "nombre": "Muchos Mitos - En Vivo",
+    "artista": "Las Pelotas"
+  },
+  {
+    "posicion": "40",
+    "nombre": "The Rover - 1993 Remaster",
+    "artista": "Led Zeppelin"
+  },
+  {
+    "posicion": "41",
+    "nombre": "Haunted",
+    "artista": "Shane MacGowan & The Popes"
+  },
+  {
+    "posicion": "42",
+    "nombre": "This Charming Man - 2011 Remaster",
+    "artista": "The Smiths"
+  },
+  {
+    "posicion": "43",
+    "nombre": "Cordillera",
+    "artista": "Los Enanitos Verdes"
+  },
+  {
+    "posicion": "44",
+    "nombre": "Big Bang",
+    "artista": "Usted Señalemelo"
+  },
+  {
+    "posicion": "45",
+    "nombre": "Camino a la Paz",
+    "artista": "Antonio Birabent"
+  },
+  {
+    "posicion": "46",
+    "nombre": "De Paso Nomás",
+    "artista": "La 25"
+  },
+  {
+    "posicion": "47",
+    "nombre": "Mmm Mmm Mmm Mmm",
+    "artista": "Crash Test Dummies"
+  },
+  {
+    "posicion": "48",
+    "nombre": "We Will Not Be Lovers - 2006 Remaster",
+    "artista": "The Waterboys"
+  },
+  {
+    "posicion": "49",
+    "nombre": "La espada del recelo",
+    "artista": "Salta La Banca"
+  },
+  {
+    "posicion": "50",
+    "nombre": "¿Qué Vas A Hacer Tan Sola Hoy?",
+    "artista": "Viejas Locas"
+  }
+]

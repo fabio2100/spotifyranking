@@ -1,0 +1,252 @@
+[
+  {
+    "posicion": "1",
+    "nombre": "Listen Up",
+    "artista": "Oasis"
+  },
+  {
+    "posicion": "2",
+    "nombre": "Dysentery Gary",
+    "artista": "blink-182"
+  },
+  {
+    "posicion": "3",
+    "nombre": "Ballad Of The Mighty I",
+    "artista": "Noel Gallagher's High Flying Birds"
+  },
+  {
+    "posicion": "4",
+    "nombre": "Mientras",
+    "artista": "Los Mesoneros"
+  },
+  {
+    "posicion": "5",
+    "nombre": "Natural Thing",
+    "artista": "The Doobie Brothers"
+  },
+  {
+    "posicion": "6",
+    "nombre": "Bigmouth Strikes Again - 2011 Remaster",
+    "artista": "The Smiths"
+  },
+  {
+    "posicion": "7",
+    "nombre": "Pamela",
+    "artista": "TOTO"
+  },
+  {
+    "posicion": "8",
+    "nombre": "Denial, Revisited",
+    "artista": "The Offspring"
+  },
+  {
+    "posicion": "9",
+    "nombre": "She's Got Issues",
+    "artista": "The Offspring"
+  },
+  {
+    "posicion": "10",
+    "nombre": "New Killer Star",
+    "artista": "David Bowie"
+  },
+  {
+    "posicion": "11",
+    "nombre": "Dust N' Bones",
+    "artista": "Guns N' Roses"
+  },
+  {
+    "posicion": "12",
+    "nombre": "Here I Go Again",
+    "artista": "Whitesnake"
+  },
+  {
+    "posicion": "13",
+    "nombre": "Prisoner of the Light",
+    "artista": "The Animals"
+  },
+  {
+    "posicion": "14",
+    "nombre": "Waiting On A War",
+    "artista": "Foo Fighters"
+  },
+  {
+    "posicion": "15",
+    "nombre": "Turn Out The Light",
+    "artista": "Amy Holland"
+  },
+  {
+    "posicion": "16",
+    "nombre": "Dead In The Water - Live At RTÉ 2FM Studios, Dublin",
+    "artista": "Noel Gallagher's High Flying Birds"
+  },
+  {
+    "posicion": "17",
+    "nombre": "Te Lo Advertí",
+    "artista": "Los Mesoneros"
+  },
+  {
+    "posicion": "18",
+    "nombre": "Heart of Gold - 2009 Remaster",
+    "artista": "Neil Young"
+  },
+  {
+    "posicion": "19",
+    "nombre": "Rocks Off - Live Licks Tour - 2009 Re-Mastered Digital Version",
+    "artista": "The Rolling Stones"
+  },
+  {
+    "posicion": "20",
+    "nombre": "Harvest Moon",
+    "artista": "Neil Young"
+  },
+  {
+    "posicion": "21",
+    "nombre": "Go Robot",
+    "artista": "Red Hot Chili Peppers"
+  },
+  {
+    "posicion": "22",
+    "nombre": "Dead Horse",
+    "artista": "Guns N' Roses"
+  },
+  {
+    "posicion": "23",
+    "nombre": "High And Dry",
+    "artista": "The Rolling Stones"
+  },
+  {
+    "posicion": "24",
+    "nombre": "Shadowplay - 2007 Remaster",
+    "artista": "Joy Division"
+  },
+  {
+    "posicion": "25",
+    "nombre": "Send Me A Postcard",
+    "artista": "Shocking Blue"
+  },
+  {
+    "posicion": "26",
+    "nombre": "Paranoid",
+    "artista": "Black Sabbath"
+  },
+  {
+    "posicion": "27",
+    "nombre": "Dark Necessities",
+    "artista": "Red Hot Chili Peppers"
+  },
+  {
+    "posicion": "28",
+    "nombre": "Civil War",
+    "artista": "Guns N' Roses"
+  },
+  {
+    "posicion": "29",
+    "nombre": "Crazy About Her - 2008 Remaster",
+    "artista": "Rod Stewart"
+  },
+  {
+    "posicion": "30",
+    "nombre": "Living In Chaos",
+    "artista": "The Offspring"
+  },
+  {
+    "posicion": "31",
+    "nombre": "Sirius - Chicago Bulls Theme Song",
+    "artista": "The Alan Parsons Project"
+  },
+  {
+    "posicion": "32",
+    "nombre": "Fallen Angel",
+    "artista": "Uriah Heep"
+  },
+  {
+    "posicion": "33",
+    "nombre": "Love Will Tear Us Apart - 2020 Remaster",
+    "artista": "Joy Division"
+  },
+  {
+    "posicion": "34",
+    "nombre": "Tumbling Dice - Live / Remastered 2009",
+    "artista": "The Rolling Stones"
+  },
+  {
+    "posicion": "35",
+    "nombre": "Negra, Ron y Velas",
+    "artista": "La Delio Valdez"
+  },
+  {
+    "posicion": "36",
+    "nombre": "Tumbling Dice",
+    "artista": "The Rolling Stones"
+  },
+  {
+    "posicion": "37",
+    "nombre": "The Passenger",
+    "artista": "Iggy Pop"
+  },
+  {
+    "posicion": "38",
+    "nombre": "Out That Door - 2005 Remaster",
+    "artista": "Hoodoo Gurus"
+  },
+  {
+    "posicion": "39",
+    "nombre": "Holiday",
+    "artista": "Green Day"
+  },
+  {
+    "posicion": "40",
+    "nombre": "Ultima Bala.",
+    "artista": "Ahmad Magdy"
+  },
+  {
+    "posicion": "41",
+    "nombre": "Lock All The Doors",
+    "artista": "Noel Gallagher's High Flying Birds"
+  },
+  {
+    "posicion": "42",
+    "nombre": "Interpretación",
+    "artista": "Las Pastillas del Abuelo"
+  },
+  {
+    "posicion": "43",
+    "nombre": "Revolution Song - Bonus Track",
+    "artista": "Noel Gallagher's High Flying Birds"
+  },
+  {
+    "posicion": "44",
+    "nombre": "Russian Roulette",
+    "artista": "Lords Of The New Church"
+  },
+  {
+    "posicion": "45",
+    "nombre": "Vuela una Lágrima (En Vivo)",
+    "artista": "Soledad"
+  },
+  {
+    "posicion": "46",
+    "nombre": "Neblina",
+    "artista": "Las Pastillas del Abuelo"
+  },
+  {
+    "posicion": "47",
+    "nombre": "Half the World Away - Remastered",
+    "artista": "Oasis"
+  },
+  {
+    "posicion": "48",
+    "nombre": "Break The Chain",
+    "artista": "Gene Loves Jezebel"
+  },
+  {
+    "posicion": "49",
+    "nombre": "The Man Who Sold The World",
+    "artista": "Nirvana"
+  },
+  {
+    "posicion": "50",
+    "nombre": "Camarillo Brillo",
+    "artista": "Frank Zappa"
+  }
+]

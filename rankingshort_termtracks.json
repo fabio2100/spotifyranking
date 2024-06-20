@@ -1,0 +1,252 @@
+[
+  {
+    "nombre": "El Hormiguero",
+    "artista": "Calle 13",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "From Your Lips",
+    "artista": "Massacre",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "New Slang",
+    "artista": "The Shins",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "First",
+    "artista": "Cold War Kids",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Dirty Love",
+    "artista": "Frank Zappa",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Supernatural Superserious",
+    "artista": "R.E.M.",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Nightswimming",
+    "artista": "R.E.M.",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "The Spirit Of Radio",
+    "artista": "Rush",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Until The End Of The World",
+    "artista": "U2",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Something to Believe In",
+    "artista": "Ramones",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Ocupen Su Localidad - Directo",
+    "artista": "Joaquin Sabina y Viceversa",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Everyday Is Like Sunday - 2011 Remaster",
+    "artista": "Morrissey",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Mejor No Hablemos De Amor - En Vivo Desde Tijuana, Mexico/2004",
+    "artista": "Los Enanitos Verdes",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "The Waiting",
+    "artista": "Tom Petty and the Heartbreakers",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Scrawny",
+    "artista": "Wallows",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "These Days",
+    "artista": "Nico",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "One Rizla",
+    "artista": "shame",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "What It Takes - Live Version",
+    "artista": "Aerosmith",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "She's A Lady",
+    "artista": "Tom Jones",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "All Along the Watchtower",
+    "artista": "Eddie Vedder",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Hasta el Final",
+    "artista": "Guasones",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Camarillo Brillo",
+    "artista": "Frank Zappa",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Bitter Taste",
+    "artista": "Billy Idol",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Pedazo de Papel",
+    "artista": "La Delio Valdez",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Takin' Care Of Business",
+    "artista": "Bachman-Turner Overdrive",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Negra, Ron y Velas",
+    "artista": "La Delio Valdez",
+    "cambio": -21
+  },
+  {
+    "nombre": "Handle With Care",
+    "artista": "Traveling Wilburys",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Guitarras Blancas - En Vivo Desde Tijuana, Mexico/2004",
+    "artista": "Los Enanitos Verdes",
+    "cambio": 17
+  },
+  {
+    "nombre": "Sorprendente",
+    "artista": "Leño",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Borracho y Amanecido - En Vivo",
+    "artista": "La Delio Valdez",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "I'm a Believer",
+    "artista": "The Monkees",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Redemption Song",
+    "artista": "Bob Marley & The Wailers",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "This & That",
+    "artista": "Michael Penn",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Tunnel Of Love",
+    "artista": "Dire Straits",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "It's Alright",
+    "artista": "Echo & the Bunnymen",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Beautiful Day",
+    "artista": "U2",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "No Matter What - Remastered 2010",
+    "artista": "Badfinger",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "El Poder del Mar",
+    "artista": "Javiera & Los Imposibles",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Sexual Healing - Live at Grand Forks Airbase, Grand Forks, ND - June 1997",
+    "artista": "Soul Asylum",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Neblina",
+    "artista": "Las Pastillas del Abuelo",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Pacto Entre Caballeros",
+    "artista": "Joaquín Sabina",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Woman Like You",
+    "artista": "Nasty Bits",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Serotonin",
+    "artista": "Mystery Jets",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Dysentery Gary",
+    "artista": "blink-182",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Nothing Else Matters",
+    "artista": "Metallica",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Wake Me Up",
+    "artista": "Avicii",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Cordillera",
+    "artista": "Los Enanitos Verdes",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Love Will Tear Us Apart",
+    "artista": "Joy Division",
+    "cambio": "Nuevo"
+  },
+  {
+    "nombre": "Ultima Bala.",
+    "artista": "Ahmad Magdy",
+    "cambio": -39
+  },
+  {
+    "nombre": "Confucius",
+    "artista": "The Skatalites",
+    "cambio": "Nuevo"
+  }
+]
